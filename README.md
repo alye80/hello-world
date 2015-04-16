@@ -1,2 +1,5 @@
 # hello-world
-first git object
+The first git object.
+
+hello-world is master repository.
+This is a private content.
